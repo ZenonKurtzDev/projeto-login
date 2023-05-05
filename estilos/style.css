@@ -31,7 +31,7 @@ main {
 
 section#login {
    
-     position: absolute;
+     position: relative;
      top: 10%;
      left: 35%;
      transform: translate(-50% -50%);
